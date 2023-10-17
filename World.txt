@@ -1,10 +1,10 @@
-Hello   Привет
-Goodbye   До свидания
-Apple   Яблоко
-Car   Машина
-Book   Книга
-Dog   Собака
-Cat   Кошка
-House   Дом
-Friend   Друг
-Family   Семья
+Hello   РџСЂРёРІРµС‚
+Goodbye   Р”Рѕ СЃРІРёРґР°РЅРёСЏ
+Apple   РЇР±Р»РѕРєРѕ
+Car   РњР°С€РёРЅР°
+Book   РљРЅРёРіР°
+Dog   РЎРѕР±Р°РєР°
+Cat   РљРѕС€РєР°
+House   Р”РѕРј
+Friend   Р”СЂСѓРі
+Family   РЎРµРјСЊСЏ
